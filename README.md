@@ -1,8 +1,8 @@
 <div align="center">
   <span></span>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Vic-Chang&show_icons=true&count_private=true" />
+  <img height="170px" src="https://github-stats-extended.vercel.app/api?username=Vic-Chang&show_icons=true&count_private=true" />
   <span></span>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vic-Chang&layout=compact&hide=CSS" />
+  <img height="170px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vic-Chang&layout=compact&hide=CSS" />
   <span></span>
 </div>
 <div align="center">
@@ -19,7 +19,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
     </a>
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40" />
     </a>
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
